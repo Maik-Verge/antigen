@@ -19,8 +19,7 @@
   "dependencies": {
     "express": "^4.13.4",
     "react": "^0.14.8",
-    "react-dom": "^0.14.8",
-    "webpack": "^1.12.2"
+    "react-dom": "^0.14.8"
   },
   "devDependencies": {
     "babel-core": "^6.7.6",

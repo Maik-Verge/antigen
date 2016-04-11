@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react';
 
 export default class Hello extends React.Component {
   render() {
-    return <h3> is cool!</h3>;
+    return <h3>Hello React wiht Es6</h3>;
   }
 }

@@ -29,13 +29,13 @@ const common = {
   },
   module: {
     loaders: [
-      {
-        // Test expacts a regexpression right here, so note the slashes
-        test: /\.css$/,
-        loaders: ['style', 'css'],
-        // Include accepts either a path or an array of paths.
-        include: PATHS.app
-      },
+      // {
+      //   // Test expacts a regexpression right here, so note the slashes
+      //   test: /\.css$/,
+      //   loaders: ['style', 'css'],
+      //   // Include accepts either a path or an array of paths.
+      //   include: PATHS.app
+      // },
       {
         //Setup jsx. Accepts js too because of regex
         test: /\.jsx?$/,
